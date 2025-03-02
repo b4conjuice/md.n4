@@ -2,7 +2,5 @@
   "name": "md",
   "short_name": "md",
   "lang": "en-US",
-  "start_url": "/",
-  "display": "standalone",
-  "scope": "/"
+  "display": "standalone"
 }
